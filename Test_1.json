@@ -1,0 +1,7 @@
+{"URL": "Count", "Count": "Word", "Word": "URL"}
+{"URL": "[0, 0, 4, 5, 1, 0, 0]", "Count": "[[], [], 'of', 'the', 'calcineurin', 'calcineurin', 'calcineurin']", "Word": "http://www.w3.org/1999/xlink/xref:href=776"}
+{"URL": "[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]", "Count": "['calcineurin', 'calcineurin', 'calcineurin', 'calcineurin', 'calcineurin', 'calcineurin', 'calcineurin', 'calcineurin', 'calcineurin', 'calcineurin', 'calcineurin', 'calcineurin', 'as', 'as', 'as', 'as', 'as']", "Word": "http://www.w3.org/1999/xlink/xref:href=502"}
+{"URL": "[0, 0, 0, 0]", "Count": "['as', 'as', 'as', 'as']", "Word": "http://www.w3.org/1999/xlink/xref:href=2879"}
+{"URL": "[1, 10, 1, 1, 0, 1, 0, 0, 4, 1, 0, 8, 0, 1, 2, 1, 0]", "Count": "['Colonies', 'of', 'calcineurin-transduced', 'NCSCs', 'NCSCs', 'a', 'a', 'a', 'in', 'SMC', 'SMC', 'and', 'and', 'a', 'highly', 'differentiated', 'differentiated']", "Word": "http://www.w3.org/1999/xlink/xref:href=1460"}
+{"URL": "[0, 6, 1, 0, 2, 0, 0, 0, 0]", "Count": "['differentiated', 'of', 'NFATc1', 'NFATc1', 'NCSCs', 'NCSCs', 'NCSCs', 'NCSCs', 'NCSCs']", "Word": "http://www.w3.org/1999/xlink/xref:href=644"}
+{"URL": "[1, 1, 1, 0, 0, 0, 1]", "Count": "['NFATc1', 'transcript', 'levels', 'levels', 'levels', 'levels', 'NCSCs']", "Word": "http://www.w3.org/1999/xlink/xref:href=631"}

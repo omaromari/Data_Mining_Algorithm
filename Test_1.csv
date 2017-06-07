@@ -1,0 +1,7 @@
+Count,URL,Word
+"[0, 0, 4, 5, 1, 0, 0]",http://www.w3.org/1999/xlink/xref:href=776,"[[], [], 'of', 'the', 'calcineurin', 'calcineurin', 'calcineurin']"
+"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",http://www.w3.org/1999/xlink/xref:href=502,"['calcineurin', 'calcineurin', 'calcineurin', 'calcineurin', 'calcineurin', 'calcineurin', 'calcineurin', 'calcineurin', 'calcineurin', 'calcineurin', 'calcineurin', 'calcineurin', 'as', 'as', 'as', 'as', 'as']"
+"[0, 0, 0, 0]",http://www.w3.org/1999/xlink/xref:href=2879,"['as', 'as', 'as', 'as']"
+"[1, 10, 1, 1, 0, 1, 0, 0, 4, 1, 0, 8, 0, 1, 2, 1, 0]",http://www.w3.org/1999/xlink/xref:href=1460,"['Colonies', 'of', 'calcineurin-transduced', 'NCSCs', 'NCSCs', 'a', 'a', 'a', 'in', 'SMC', 'SMC', 'and', 'and', 'a', 'highly', 'differentiated', 'differentiated']"
+"[0, 6, 1, 0, 2, 0, 0, 0, 0]",http://www.w3.org/1999/xlink/xref:href=644,"['differentiated', 'of', 'NFATc1', 'NFATc1', 'NCSCs', 'NCSCs', 'NCSCs', 'NCSCs', 'NCSCs']"
+"[1, 1, 1, 0, 0, 0, 1]",http://www.w3.org/1999/xlink/xref:href=631,"['NFATc1', 'transcript', 'levels', 'levels', 'levels', 'levels', 'NCSCs']"
